@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Michelle and I'm a Computer Engineering Student at UC Santa Cruz
+- 🌱 I’m currently learning and am interested in computer hardware, electronics, and system design
+- 📫 How to reach me via email: michellehong510@gmail.com
